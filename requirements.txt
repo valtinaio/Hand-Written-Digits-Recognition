@@ -1,0 +1,9 @@
+datasets
+numpy
+matplotlib
+scikit-learn
+opencv-python
+tqdm
+scipy
+scikit-image
+pandas
