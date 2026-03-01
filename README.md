@@ -31,8 +31,3 @@ The model's performance is analyzed using:
 
 ## Requirements
 See requirements.txt
-
-
-
-## 📜 License
-[MIT](https://choosealicense.com/licenses/mit/)
