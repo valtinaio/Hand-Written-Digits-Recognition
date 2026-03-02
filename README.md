@@ -8,7 +8,8 @@ The `digits_recognition.ipynb` notebook demonstrates the complete Data Science w
 
 ## The Dataset
 The dataset consists of images of handwritten digits from 10 classes, representing the digits `0` through `9`. These images are grayscale and have been resized to a standard size (e.g., 28x28 pixels).
-The dataset has been purposely modified to include some **unlabeled images**, **noisy samples**, and **synthetically augmented data** for certain classes. I will  clean the data, handle the noise, and ensure that the dataset is ready for effective model training.
+The dataset has been purposely modified to include some **unlabeled images**, **noisy samples**, and **synthetically augmented data** for certain classes. I will  clean the data, handle the noise, and ensure that the dataset is ready for effective model training.  
+The dataset used is not provided on this github repository.
 
 ## Key Features & Workflow
 
